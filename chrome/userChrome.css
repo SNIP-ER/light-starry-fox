@@ -1,0 +1,43 @@
+/* Increase the size of the bookmarks panel */
+#PersonalToolbar {
+	font-size: 15px !important;
+}
+
+/* Increase spacing between tabs */
+#personal-bookmarks .bookmark-item {
+	padding-top: 3px !important;
+	padding-bottom: 3px !important;
+	margin-left: 7px !important;
+}
+
+/* Hide button with side panel */
+#sidebar-button {
+    display: none !important;
+}
+
+/* Increase the height of the search url */
+#urlbar {
+	min-height: 30px !important;
+}
+
+/* Change the tick to close tabs */
+.tab-close-button {
+    transition: transform 0.1s ease-out !important;
+}
+
+.tab-close-button:hover {
+	transform: rotate(90deg) !important;
+    fill: #fb4f4f !important;
+	background-color: transparent !important;
+	box-shadow: none !important;
+}
+
+/* Change the color of "Add tab" button */
+#tabs-newtab-button:hover {
+	fill: rgb(74, 253, 124) !important;
+}
+
+/* Remove "List all tabs" button */
+#alltabs-button {
+	display: none !important;
+}
