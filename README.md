@@ -20,6 +20,7 @@
   2. Move your image/gif to the **'image'** :file_folder:
   3. Open **'userContent.css'** file :file_cabinet: in any text editor *(even a notepad will work)*
   4. Find this item and replace :scissors: **'Animation_Of_Stars-25-fps-compress.gif'** with the name of your image/gif
+
   ```
   body {
 		background: url("images/Animation_Of_Stars-25-fps-compress.gif") no-repeat fixed !important;
