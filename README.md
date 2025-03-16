@@ -1,3 +1,5 @@
+[//]: # (оглавление)
+
 # :star2: Light StarryFox 
 <p>
 <h4>:bangbang: The image of the logo and the name "Firefox" and background <em>(also their connection)</em>, as well as the idea, was taken <a href="https://github.com/sagars007/starry-fox" target="_blank">detail</a></h4>
@@ -30,7 +32,11 @@
 
 ---
 
-//Установка:
-// Набрать в поисковой строке "about:config", там вставить "toolkit.legacyUserProfileCustomizations.stylesheets" и сделайте его значение "True" (это нужно чтобы браузер подключал css темы)
-// Скачать папку chrome и переместить её в папку с профилем браузера (ввести в поисковик "about:support", нажать "Открыть папку" справа от "Папка профиля")
-// Перезапустить браузер
+# :inbox_tray: Installation:
+**1.** :anger: Type **"about:config"** in the search bar, insert **"toolkit.legacyUserProfileCustomizations.stylesheets"** there, and set the value to **"True"** *(this is needed for the browser to apply CSS themes)* <br/>
+
+**2.** :envelope_with_arrow: Download the **"chrome"** folder from this repository and move it to the browser profile folder *(type **"about:support"** in the search bar, then click **"Open Folder"** next to **"Profile Folder"**)* <br/>
+
+**3.** :electric_plug: Restart Firefox browser 
+
+[//]: # (фото)
