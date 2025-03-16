@@ -1,8 +1,8 @@
 # :page_with_curl: Table of Contents
-- [WARNING](#light_starryFox)
-- [Change](#change)
-- [Installation](#install)
-- [Using](#using)
+- :bangbang: [WARNING](#light_starryFox)
+- :dna: [Change](#change)
+- :inbox_tray: [Installation](#install)
+- :point_up_2: [Using](#using)
 
 ---
 
