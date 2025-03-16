@@ -7,6 +7,8 @@
 ---
 
 ![Example](https://github.com/SNIP-ER/light-starry-fox/blob/main/main.png)
+![Example](https://github.com/SNIP-ER/light-starry-fox/blob/main/cross.png)
+![Example](https://github.com/SNIP-ER/light-starry-fox/blob/main/plus.png)
 
 ---
 
