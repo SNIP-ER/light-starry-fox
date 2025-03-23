@@ -1,0 +1,220 @@
+/* Increase the size of the bookmarks panel */
+#PersonalToolbar {
+	font-size: 15px !important;
+}
+
+/* Increase spacing between tabs */
+#personal-bookmarks .bookmark-item {
+	padding-top: 3px !important;
+	padding-bottom: 3px !important;
+	margin-left: 7px !important;
+}
+
+/* Hide button with side panel */
+#sidebar-button {
+    display: none !important;
+}
+
+/* Increase the height of the search url */
+#urlbar {
+	min-height: 30px !important;
+}
+
+/* Change the tick to close tabs */
+.tab-close-button {
+    transition: transform 0.1s ease-out !important;
+}
+
+.tab-close-button:hover {
+	transform: rotate(90deg) !important;
+    fill: #fb4f4f !important;
+	background-color: transparent !important;
+	box-shadow: none !important;
+}
+
+/* Styles for the "Create new tab" button */
+#tabs-newtab-button {
+    position: relative;
+    overflow: visible;
+    background: none !important;
+    box-shadow: none !important;
+    border: none !important;
+    transition: transform 0.2s ease-out;
+	transform-origin: center;
+}
+
+#tabs-newtab-button:hover {
+    transform: scale(1.3) translateY(0);
+    fill: rgb(74, 253, 124) !important;
+}
+
+/* Remove the standard background and wrap when you scroll */
+#tabs-newtab-button:hover > .toolbarbutton-icon {
+    background-color: transparent !important;
+    outline-color: transparent !important;
+}
+
+/* Remove "List all tabs" button */
+#alltabs-button {
+	display: none !important;
+}
+
+/* Fill button "Reload" */ 
+#reload-button {
+    position: relative;
+    overflow: visible;
+    background: none !important;
+    box-shadow: none !important;
+    border: none !important;
+    transition: transform 0.2s ease-out;
+}
+
+/* Zoom and blur effect when hovering (only if the button is active) */
+#reload-button:not([disabled]):hover {
+    transform: scale(1.15); 
+    fill: #fbe44f !important; 
+}
+
+#reload-button:hover > .toolbarbutton-icon,
+#reload-button:hover > .toolbarbutton-text,
+#reload-button:hover > .toolbarbutton-badge-stack {
+    background-color: transparent !important;
+    outline-color: transparent !important;
+}
+
+/* Style for "Back" button */
+#back-button {
+    position: relative;
+    overflow: visible; 
+    background: none !important; 
+    box-shadow: none !important;
+    border: none !important;
+}
+
+#back-button:hover > .toolbarbutton-icon,
+#back-button:hover > .toolbarbutton-text,
+#back-button:hover > .toolbarbutton-badge-stack,
+#back-button:focus > .toolbarbutton-icon,
+#back-button:focus > .toolbarbutton-text,
+#back-button:focus > .toolbarbutton-badge-stack,
+#back-button:active > .toolbarbutton-icon,
+#back-button:active > .toolbarbutton-text,
+#back-button:active > .toolbarbutton-badge-stack {
+    background-color: transparent !important;
+    outline-color: transparent !important;
+}
+
+#back-button::after {
+    content: "";
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    border: 2px solid rgba(212, 190, 250, 0.506); 
+    border-radius: 5px; 
+    opacity: 0; 
+    transform: scale(0.4);
+    transition: transform 0.3s ease-out, opacity 0.3s ease-out;
+}
+
+#back-button:not([disabled]):hover::after {
+    opacity: 1;
+    transform: scale(0.9);
+}
+
+#back-button[disabled]::after {
+    display: none !important;
+}
+
+/* Style for "Forward" button */
+#forward-button {
+    position: relative;
+    overflow: visible; 
+    background: none !important; 
+    box-shadow: none !important;
+    border: none !important;
+}
+
+#forward-button:hover > .toolbarbutton-icon,
+#forward-button:hover > .toolbarbutton-text,
+#forward-button:hover > .toolbarbutton-badge-stack,
+#forward-button:focus > .toolbarbutton-icon,
+#forward-button:focus > .toolbarbutton-text,
+#forward-button:focus > .toolbarbutton-badge-stack,
+#forward-button:active > .toolbarbutton-icon,
+#forward-button:active > .toolbarbutton-text,
+#forward-button:active > .toolbarbutton-badge-stack {
+    background-color: transparent !important;
+    outline-color: transparent !important;
+}
+
+#forward-button::after {
+    content: "";
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    border: 2px solid rgba(212, 190, 250, 0.506); 
+    border-radius: 5px; 
+    opacity: 0;
+    transform: scale(0.4); 
+    transition: transform 0.3s ease-out, opacity 0.3s ease-out;
+}
+
+#forward-button:not([disabled]):hover::after {
+    opacity: 1;
+    transform: scale(0.9);
+}
+
+#forward-button[disabled]::after {
+    display: none !important;
+}
+
+.toolbarbutton-1:hover {
+	background: transparent !important;
+}
+
+/* Change window control icons */
+.titlebar-min {
+    list-style-image: url("images/svernut.svg") !important;
+}
+
+.titlebar-max  {
+    list-style-image: url("images/full.svg") !important;
+}
+
+.titlebar-restore {
+	list-style-image: url("images/okno.svg") !important;
+}
+
+.titlebar-min:hover {
+	scale: 1.5;
+	background: transparent !important;
+}
+
+.titlebar-max:hover  {
+	scale: 1.35;
+	background: transparent !important;
+}
+
+.titlebar-restore:hover {
+	scale: 1.35;
+	background: transparent !important;
+}
+
+.titlebar-close:hover {
+	scale: 1.35;
+	background: transparent !important;
+}
+
+/* If you do not use the "Adaptive Tab Bar Color" extension
+#TabsToolbar {
+	background-color: rgb(43, 42, 51) !important;
+}
+
+#toolbar-menubar {
+	background-color: rgb(43, 42, 51) !important;
+}
+*/
