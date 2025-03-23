@@ -6,12 +6,6 @@
 
 ---
 
-![Example](https://github.com/SNIP-ER/light-starry-fox/blob/main/main.png)
-![Example](https://github.com/SNIP-ER/light-starry-fox/blob/main/cross.png)
-![Example](https://github.com/SNIP-ER/light-starry-fox/blob/main/plus.png)
-
----
-
 ##  <a id="light_starryFox">:star2: Light StarryFox</a>
 <p>
 <h4>:bangbang: The image of the logo and the name "Firefox" and background <em>(also their connection)</em>, as well as the idea, was taken <a href="https://github.com/sagars007/starry-fox" target="_blank">detail</a></h4>
