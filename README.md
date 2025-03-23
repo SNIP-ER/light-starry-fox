@@ -15,9 +15,9 @@
 
 ## <a id="change">:dna: Change :</a>
 2. Version 2
- - Change the "Add new tab", "Reload", "Back" and "Forward" button style
+ - Change the **"Add new tab"**, **"Reload"**, **"Back"** and **"Forward"** button style
  - Changed window control icons
- - Added background color for those who do not use extension *(file "userChrome.css", at the end of /* and */)*
+ - Added background color for those who do not use extension *(file **"userChrome.css"**, at the end of /* and */)*
 
 1. Version 1 (Name folder - chrome)
  - Changed **background**:desktop_computer:, **logo**:fox_face:, **name Firefox**:page_facing_up: on the home screen *(images and their location)*
