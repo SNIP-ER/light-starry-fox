@@ -1,7 +1,7 @@
 @-moz-document url-prefix(about:home), url-prefix(about:newtab) {
 	/* add background gif */
 	body {
-		background: url("images/animation-of-stars-15-fps.gif") no-repeat fixed !important;
+		background: url("images/Animation_Of_Stars-photo.png") no-repeat fixed !important;
 		background-size: cover !important;
 	}
 
