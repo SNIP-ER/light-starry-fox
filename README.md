@@ -1,3 +1,7 @@
+Translate:
+[EN](https://github.com/SNIP-ER/light-starry-fox/edit/main/README.md)
+[RUS](https://github.com/SNIP-ER/light-starry-fox/blob/main/README-rus.md)
+
 # :page_with_curl: Table of Contents
 - :bangbang: [WARNING](#light_starryFox)
 - :dna: [Change](#change)
