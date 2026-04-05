@@ -1,6 +1,5 @@
 Перевод:
-[EN](https://github.com/SNIP-ER/light-starry-fox/edit/main/README.md)
-[RUS](https://github.com/SNIP-ER/light-starry-fox/blob/main/README-rus.md)
+[EN](https://github.com/SNIP-ER/light-starry-fox/tree/main?tab=readme-ov-file)
 
 # :page_with_curl: Содержание
 - :bangbang: [ВНИМАНИЕ](#light_starryFox)
