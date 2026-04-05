@@ -1,5 +1,5 @@
 Translate:
-[EN](https://github.com/SNIP-ER/light-starry-fox/edit/main/README.md)
+[EN]([https://github.com/SNIP-ER/light-starry-fox/edit/main/README.md](https://github.com/SNIP-ER/light-starry-fox/tree/main?tab=readme-ov-file))
 [RUS](https://github.com/SNIP-ER/light-starry-fox/blob/main/README-rus.md)
 
 # :page_with_curl: Table of Contents
