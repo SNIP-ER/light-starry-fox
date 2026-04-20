@@ -172,6 +172,15 @@
     display: none !important;
 }
 
+/* Remove the "view button" */
+#firefox-view-button {
+    display: none;
+}
+
+#tabbrowser-tabs {
+    border-inline-start: none !important;
+}
+
 .toolbarbutton-1:hover {
 	background: transparent !important;
 }
