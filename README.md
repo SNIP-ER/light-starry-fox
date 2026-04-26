@@ -17,12 +17,14 @@ Translate:
 ---
 
 ## <a id="change">:dna: Change :</a>
-2. Version 2
+3. v1.1.1
+ - Add center bookmarks
+2. v1.1.0
  - Change the **"Add new tab"**, **"Reload"**, **"Back"** and **"Forward"** button style
  - Changed window control icons
  - Added background color for those who do not use extension *(file **"userChrome.css"**, at the end of /\* and \*/)*
 
-1. Version 1 (Name folder - chrome)
+1. v1.0.0 (Name folder - chrome)
  - Changed **background**:desktop_computer:, **logo**:fox_face:, **name Firefox**:page_facing_up: on the home screen *(images and their location)*
  - Bookmarks slightly larger and more space between bookmarks
  - Removed buttons **'Sidebar'** and **'List of all tabs'**
