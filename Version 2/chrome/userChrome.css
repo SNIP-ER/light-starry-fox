@@ -3,6 +3,11 @@
 	font-size: 15px !important;
 }
 
+/* Закладки по центру */
+#PlacesToolbarItems {
+    justify-content: center !important;
+}
+
 /* Increase spacing between tabs */
 #personal-bookmarks .bookmark-item {
 	padding-top: 3px !important;
