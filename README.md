@@ -17,6 +17,9 @@ Translate:
 ---
 
 ## <a id="change">:dna: Change :</a>
+4. v1.1.2 *(bug fixes)*
+ - Logo is displayed correctly again
+ - Remove the vertical bar to the left of the pinned sites
 3. v1.1.1
  - Add center bookmarks
 2. v1.1.0
